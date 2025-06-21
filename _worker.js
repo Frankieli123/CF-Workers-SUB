@@ -17,8 +17,8 @@ https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 `;
 
 let urls = [];
-let subConverter = "sub.nasl.cc:8888/sub"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subConfig = "https://raw.githubusercontent.com/Frankieli123/clash/refs/heads/main/qichiyu.ini"; //订阅配置文件
+let subConverter = "https://sub.nasl.cc:8888/sub"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
+let subConfig = "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
